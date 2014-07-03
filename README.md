@@ -14,4 +14,4 @@ kinect dev
 
 <h2>Progress/Sample</h2>
 - Vertex Extract (Using Corner Harris Algorithm)
-<img src="">
+<br><img src="img/edgedetect_sample.png">
