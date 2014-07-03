@@ -31,6 +31,7 @@ while True:
 	- apeture size
 	- haris detect param
 
+	adjust and play around with parameters accordingly...
 	more info: http://docs.opencv.org/modules/imgproc/doc/feature_detection.html?highlight=cornerharris#cv.CornerHarris
 	'''
 
